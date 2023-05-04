@@ -1,4 +1,3 @@
-# Shahnawaz Ahmed
 shahnawaz.ahmed95@gmail.com  | Twitter: [quantshah](http://twitter.com/quantshah) | GitHub: [quantshah](github.com/quantshah) | [Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en)
 
 ## EDUCATION
@@ -8,14 +7,6 @@ shahnawaz.ahmed95@gmail.com  | Twitter: [quantshah](http://twitter.com/quantshah
 
 - [Birla Institute of Technology and Science (BITS) Pilani (Goa)](https://www.bits-pilani.ac.in/goa/), India
    Dual degree in Physics (M.Sc.) and Electrical & Electronics Engineering (B.E.) | August 2013 - July 2018
-
-## SKILLS
-- **Modelling, simulation and optimization** for scientific computing problems specializing in quantum information and computing and **simulating open quantum systems**. **Gradient-based optimization** for learning problems such as **quantum tomography**, optimization in **quantum control** and **variational quantum algorithms**. Also familiar with basics of **convex programming** and **Riemennian** optimization.
-- **Python programming** with in-depth knowledge of scientific computing, data analysis, and machine learning tools such as **JAX, TensorFlow, PyTorch, Scikit-learn**, and **Pandas**. Familiar with **Julia**, **Matlab** and **C**.
-- **Python-based scientific computing software development** including continuous integration, release cycle management, automation with GitHub actions, and Sphinx documentation. Experienced in setting up and maintaining **Jupyterhub** servers for research groups.
-- **Machine learning and data analysis** with a focus on **custom deep-neural-network architectures** for scientific applications, **optimization on manifolds**, **Bayesian estimation, and Gaussian processes**. Also familiar with **reinforcement learning** and **Markov Decision Processes**.
-- Skilled in **data visualization**, presentation of complex research concepts through **talks, scientific manuscripts** as well as **code-based tutorials**.
-- Independent Study: **Scalable Machine Learning using PySpark** - UC, Berkeley through edX
 
 ## EXPERIENCE
 
@@ -52,6 +43,14 @@ Python software foundation (Dipy) | Intern | May 2016 - Aug 2016 | Mentor: [Dr. 
 
      - Developed a python module for Magnetic Resonance Image (MRI) reconstruction based on the IVIM model resulting in an open-source implementation ([demo](https://dipy.org/documentation/0.16.0./examples_built/reconst_ivim/)) and a publication ([arXiv:1910.00095](https://arxiv.org/abs/1910.00095s)).
 
+## SKILLS
+- **Modelling, simulation and optimization** for scientific computing problems specializing in quantum information and computing and **simulating open quantum systems**. **Gradient-based optimization** for learning problems such as **quantum tomography**, optimization in **quantum control** and **variational quantum algorithms**. Also familiar with basics of **convex programming** and **Riemennian** optimization.
+- **Python programming** with in-depth knowledge of scientific computing, data analysis, and machine learning tools such as **JAX, TensorFlow, PyTorch, Scikit-learn**, and **Pandas**. Familiar with **Julia**, **Matlab** and **C**.
+- **Python-based scientific computing software development** including continuous integration, release cycle management, automation with GitHub actions, and Sphinx documentation. Experienced in setting up and maintaining **Jupyterhub** servers for research groups.
+- **Machine learning and data analysis** with a focus on **custom deep-neural-network architectures** for scientific applications, **optimization on manifolds**, **Bayesian estimation, and Gaussian processes**. Also familiar with **reinforcement learning** and **Markov Decision Processes**.
+- Skilled in **data visualization**, presentation of complex research concepts through **talks, scientific manuscripts** as well as **code-based tutorials**.
+- Independent Study: **Scalable Machine Learning using PySpark** - UC, Berkeley through edX
+
 ## OPEN SOURCE
 - [gd-qpt](https://github.com/quantshah/gd-qpt): Gradient desecent quantum process tomography (with JAX), 2022
 - [qst-cgan](https://github.com/quantshah/qst-cgan): Quantum state tomography with conditional GANs (with TensorFlow), 2022
@@ -78,28 +77,34 @@ Python software foundation (Dipy) | Intern | May 2016 - Aug 2016 | Mentor: [Dr. 
 
 ## TEACHING
 
-- Learning from data ([TIF285](https://cforssen.gitlab.io/tif285-book/content/Intro/welcome.html)) | Teaching assistant | Chalmers University of Technology | 2019, 2020, 2021, 2022
-<!-- - Master's level course taught by Prof. Christian Forssén on methods to perform scientific data analysis using Bayesian statistical inference and machine learning. Developed various term projects on neural-network applications to science. -->
+### Chalmers University of Technology
+- Learning from data ([TIF285](https://cforssen.gitlab.io/tif285-book/content/Intro/welcome.html)). Teaching assistant (2019, 2020, 2021, 2022).
 
-- Quantum capsule neural networks | Master thesis supervision | Chalmers University of Technology | 2020 
-<!-- Supervised a master thesis by Sieglinde Bogaert, a student of the Erasmus Mundus Nano program in collaboration with KU Leuven on the topic of quantum neural networks. I conceived the idea and supervised the thesis with Dr. Anton Frisk Kockum.  -->
 
-- Applied machine learning | Teaching assistant | Chalmers University of Technology | 2019, 2020, 2021
+Master's level course taught by Prof. Christian Forssén on methods to perform scientific data analysis using Bayesian statistical inference and machine learning. Developed various term projects on neural-network applications to science.
 
-<!-- - Master's level course taught by Prof. Richard Johansson focusing on applied machine learning with Python. -->
+- **Quantum capsule neural networks**. Master thesis supervisor (2020)
 
-- Advanced simulation and machine learning | Teaching assistant | Chalmers University of Technology | 2020, 2021, 2022
+Supervised a master thesis by Sieglinde Bogaert, a student of the Erasmus Mundus Nano program in collaboration with KU Leuven on the topic of quantum neural networks. I conceived the idea and supervised the thesis with Dr. Anton Frisk Kockum.
 
-<!-- - Master's level course by Prof. Andreas Ekström on advanced topics in machine learning, e.g, Gaussian processes, Bayesian regression. -->
+- **Applied machine learning**. Teaching assistant (2019, 2020, 2021).
 
-- Deep machine learning and reinforcement learning | Teaching assistant | University of Gothenburg | 2020, 2021
-<!-- - Evening course by [Prof. Mats Granath](https://www.gu.se/en/about/find-staff/matsgranath) focusing on basic machine learning concepts and Python-based implementations of deep and reinforcement learning. -->
+Master's level course taught by Prof. Richard Johansson focusing on applied machine learning with Python.
 
-- C programming | Lab assistant | University of Gothenburg | 2019, 2020
-<!-- - Evening course by [Prof. Andreas Heinz](https://www.chalmers.se/en/staff/Pages/andreas-heinz.aspx). Assisted with grading lab exercises in basic C-programming. -->
+- **Advanced simulation and machine learning**. Teaching assistant (2020, 2021, 2022).
 
-- Quantum Mechanics - I | Teaching assistant | BITS Pilani, K.K. Birla Goa Campus | Jan 2016 - May. 2016
-<!-- - Assisted [Prof. Radhika Vathsan](https://sites.google.com/site/radhikavathsan/home) in evaluation of course assignments. -->
+Master's level course by Prof. Andreas Ekström on advanced topics in machine learning, e.g, Gaussian processes, Bayesian regression
+
+- **Deep machine learning and reinforcement learning**. Teaching assistant (2020, 2021)
+
+Evening course by [Prof. Mats Granath](https://www.gu.se/en/about/find-staff/matsgranath) focusing on basic machine learning concepts and Python-based implementations of deep and reinforcement learning.
+
+- **C programming**. Lab assistant (2019, 2020)
+
+Evening course by [Prof. Andreas Heinz](https://www.chalmers.se/en/staff/Pages/andreas-heinz.aspx). Assisted with grading lab exercises in basic C-programming.
+
+### BITS Pilani, K.K. Birla Goa Campus
+- **Quantum Mechanics - I**. Teaching assistant (Jan 2016 - May 2016)
 
 ## PUBLICATIONS
 
@@ -113,11 +118,11 @@ Python software foundation (Dipy) | Intern | May 2016 - Aug 2016 | Mentor: [Dr. 
 
 5. Warren, C. W., Fernández-Pendás, J., **Ahmed S**, et al. "Extensive characterization of a family of efficient three-qubit gates at the coherence limit.". npj Quantum Inf 9, 44 (2023). arXiv:2207.02938.
 
-6. **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Quantum State Tomography with Conditional Generative Adversarial Networks." Phys. Rev. Lett. 127, 140502 (2021) | arXiv:2008.03240.
+6. **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Quantum State Tomography with Conditional Generative Adversarial Networks." Phys. Rev. Lett. 127, 140502 (2021). arXiv:2008.03240.
 
-7. **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Classification and reconstruction of optical quantum states with deep neural networks." Phys. Rev. Research 3, 033278 (2021) | arXiv:2012.02185.
+7. **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Classification and reconstruction of optical quantum states with deep neural networks." Phys. Rev. Research 3, 033278 (2021). arXiv:2012.02185.
 
-8. Li B, **Ahmed S**, Saraogi S, Lambert B, Nori F, Pitchford A, Shammah N. "Pulse-level noisy quantum circuits with QuTiP." Quantum 6, 630 (2022) | arXiv:2105.09902.
+8. Li B, **Ahmed S**, Saraogi S, Lambert B, Nori F, Pitchford A, Shammah N. "Pulse-level noisy quantum circuits with QuTiP." Quantum 6, 630 (2022). arXiv:2105.09902.
 
 9. Lambert N, Raheja T, **Ahmed S**, Pitchford A, Nori F. "BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics." Phys. Rev. Research 5, 013181 (2023). arXiv:2010.10806.
 
