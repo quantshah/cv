@@ -1,4 +1,6 @@
-shahnawaz.ahmed95@gmail.com  | Twitter: [quantshah](http://twitter.com/quantshah) | GitHub: [quantshah](github.com/quantshah) | [Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en)
+# Shahnawaz Ahmed
+
+shahnawaz.ahmed95@gmail.com|[Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en)|GitHub:[quantshah](github.com/quantshah)|Twitter:[quantshah](http://twitter.com/quantshah)
 
 ## EDUCATION
 - [Chalmers University of Technology](https://www.chalmers.se/en/centres/wacqt/Pages/default.aspx), Göteborg, Sweden
@@ -15,7 +17,6 @@ Applied quantum physics group | Ph.D. candidate | Oct 2018 - present | Superviso
 
      - Working towards a Ph.D. on a mix of topics related to applications of machine learning and optimization to quantum information and computing, e.g., quantum state and process tomography, optimizing quantum gates to generate various types of quantum states. 
      - Developed collaborations with multiple experimental groups at Chalmers to support experimental efforts towards building a quantum computer resulting in several publications. Currently also collaborating with groups at two different Swedish institutes (Lund and Nordita) on machine learning applications.
-     - Teaching courses in physics and computer science related to machine learning, applications of neural networks, advanced modelling and simulations.
 
 -  **Xanadu quantum technologies, Canada**
 Quantum algorithms group | Mitacs Accelerate Fellow | May 2022 - August 2022 | Supervisors: [Prof. Juan Carrasquilla](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/) and [Dr. Nathan Killoran](https://www.linkedin.com/in/nkilloran/?originalSubdomain=ca)

@@ -1,7 +1,7 @@
 plugins:
   - jekyll-relative-links
 
-theme: minima
+theme: tactile
 
 relative_links:
   enabled: true
