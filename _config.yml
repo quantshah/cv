@@ -1,7 +1,8 @@
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
 
-theme: tactile
+remote_theme: pages-themes/tactile@v0.2.0
 
 relative_links:
   enabled: true
