@@ -1,8 +1,9 @@
-# Shahnawaz Ahmed
-
-shahnawaz.ahmed95@gmail.com|[Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en)|GitHub:[quantshah](github.com/quantshah)|Twitter:[quantshah](http://twitter.com/quantshah)
+## CONTACT
+* * *
+shahnawaz.ahmed95@gmail.com | [Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) | GitHub:[quantshah](github.com/quantshah) | Twitter:[quantshah](http://twitter.com/quantshah)
 
 ## EDUCATION
+* * *
 - [Chalmers University of Technology](https://www.chalmers.se/en/centres/wacqt/Pages/default.aspx), Göteborg, Sweden
     Ph.D candidate in machine learning for quantum information and computing | October 2018 - September 2023
 
@@ -10,7 +11,7 @@ shahnawaz.ahmed95@gmail.com|[Google scholar](https://scholar.google.com/citation
    Dual degree in Physics (M.Sc.) and Electrical & Electronics Engineering (B.E.) | August 2013 - July 2018
 
 ## EXPERIENCE
-
+* * *
 -  **Chalmers University of Technology, Sweden**
 Applied quantum physics group. Ph.D. candidate (Oct 2018 - present).Supervisor: [Anton Frisk Kockum](https://antonfriskkockum.wixsite.com/research).
 
@@ -44,6 +45,7 @@ Python software foundation (Dipy). Intern (May 2016 - Aug 2016). Mentor: [Dr. Ar
      - Developed a python module for Magnetic Resonance Image (MRI) reconstruction based on the IVIM model resulting in an open-source implementation ([demo](https://dipy.org/documentation/0.16.0./examples_built/reconst_ivim/)) and a publication ([arXiv:1910.00095](https://arxiv.org/abs/1910.00095s)).
 
 ## SKILLS
+* * *
 - **Modelling, simulation and optimization** for scientific computing problems specializing in quantum information and computing and **simulating open quantum systems**. **Gradient-based optimization** for learning problems such as **quantum tomography**, optimization in **quantum control** and **variational quantum algorithms**. Also familiar with basics of **convex programming** and **Riemennian** optimization.
 - **Python programming** with in-depth knowledge of scientific computing, data analysis, and machine learning tools such as **JAX, TensorFlow, PyTorch, Scikit-learn**, and **Pandas**. Familiar with **Julia**, **Matlab** and **C**.
 - **Python-based scientific computing software development** including continuous integration, release cycle management, automation with GitHub actions, and Sphinx documentation. Experienced in setting up and maintaining **Jupyterhub** servers for research groups.
@@ -52,6 +54,7 @@ Python software foundation (Dipy). Intern (May 2016 - Aug 2016). Mentor: [Dr. Ar
 - Independent Study: **Scalable Machine Learning using PySpark** - UC, Berkeley through edX
 
 ## OPEN SOURCE
+* * *
 - [gd-qpt](https://github.com/quantshah/gd-qpt): Gradient desecent quantum process tomography (with JAX), 2022
 - [qst-cgan](https://github.com/quantshah/qst-cgan): Quantum state tomography with conditional GANs (with TensorFlow), 2022
 - [qutip-tensorflow](https://github.com/qutip/qutip-tensorflow): Tensorflow backend for QuTiP (Google Summer of Code project mentor), 2021
@@ -64,7 +67,7 @@ Python software foundation (Dipy). Intern (May 2016 - Aug 2016). Mentor: [Dr. Ar
 - [dipy](http://dipy.org): Developed the [IVIM](https://dipy.org/documentation/0.16.0./examples_built/reconst_ivim/) module as a Google Summer of Code project, 2016
 
 ## TALKS AND PRESENTATIONS
-
+* * *
 - QTML [Invited speaker](https://quasar.unina.it/qtml2022/talks.php): ML for quantum states and operations: from neural networks to optimization on a manifold, 2022
 - ML(QC)2: [Quantum process tomography with gradient descent](https://indico.fysik.su.se/event/7771/contributions/11921/), 2022
 - APS March Meeting: Deep neural networks for quantum state characterization, 2021
@@ -75,8 +78,16 @@ Python software foundation (Dipy). Intern (May 2016 - Aug 2016). Mentor: [Dr. Ar
 - CQIS: Make your code count: Developing open-source quantum simulation tools, 2018
 - Beyond Digital Computing symposium (awarded travel scholarship): Solving Sudokus with neural networks, 2018
 
-## TEACHING
+## AWARDS & ACHIEVEMENTS
+* * *
 
+- 2022: MITACS Accelerate fellow, Xanadu and UWaterloo, Canada
+- 2017: International Program Associate, RIKEN, Japan
+- 2016: Summer Research Fellow, Indian Academy of Sciences, Bengaluru
+- 2013: Selected for merit scholarship (NEST), Center for Excellence in Basic Sciences, Mumbai
+
+## TEACHING
+* * *
 ### Chalmers University of Technology
 - Learning from data ([TIF285](https://cforssen.gitlab.io/tif285-book/content/Intro/welcome.html)). Teaching assistant (2019, 2020, 2021, 2022).
 
@@ -107,7 +118,7 @@ Evening course by [Prof. Andreas Heinz](https://www.chalmers.se/en/staff/Pages/a
 - **Quantum Mechanics - I**. Teaching assistant (Jan 2016 - May 2016)
 
 ## PUBLICATIONS
-
+* * *
 1. **Ahmed S**, Killoran N, Carrasquilla J.F. "Implicit differentiation of variational quantum algorithms." arXiv:2211.13765 (2022).
 
 2. **Ahmed S**, Quijandría, F., & Kockum, AF. "Gradient-descent quantum process tomography by learning Kraus operators." Phys. Rev. Lett. 130, 150402 (2023). arXiv:2208.00812.
