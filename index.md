@@ -13,36 +13,47 @@ shahnawaz.ahmed95@gmail.com | [Google scholar](https://scholar.google.com/citati
 ## EXPERIENCE
 * * *
 -  **Chalmers University of Technology, Sweden**
+
 Applied quantum physics group. Ph.D. candidate (Oct 2018 - present).Supervisor: [Anton Frisk Kockum](https://antonfriskkockum.wixsite.com/research).
 
-     - Working towards a Ph.D. on a mix of topics related to applications of machine learning and optimization to quantum information and computing, e.g., quantum state and process tomography, optimizing quantum gates to generate various types of quantum states. 
-     - Developed collaborations with multiple experimental groups at Chalmers to support experimental efforts towards building a quantum computer resulting in several publications. Currently also collaborating with groups at two different Swedish institutes (Lund and Nordita) on machine learning applications.
+     Working towards a Ph.D. on a mix of topics related to applications of machine learning and optimization to quantum information and computing, e.g., quantum state and process tomography, optimizing quantum gates to generate various types of quantum states. 
+     
+     Developed collaborations with multiple experimental groups at Chalmers to support experimental efforts towards building a quantum computer resulting in several publications. Currently also collaborating with groups at two different Swedish institutes (Lund and Nordita) on machine learning applications.
 
 -  **Xanadu quantum technologies, Canada**
+
 Quantum algorithms group. Mitacs Accelerate Fellow (May 2022 - August 2022). Supervisors: [Prof. Juan Carrasquilla](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/) and [Dr. Nathan Killoran](https://www.linkedin.com/in/nkilloran/?originalSubdomain=ca)
 
-     - Developed an approach to take implicit gradients of variational quantum algorithm to compute quantities of interest in condensed-matter systems, quantum chemistry, generation of quantum entanglement as well as hyperparameter tuning of quantum machine-learning algorithms [arXiv:2211.13765](http://arxiv.org/abs/2211.13765), [demo](https://pennylane.ai/qml/demos/tutorial_implicit_diff_susceptibility.html) using PennyLane, JAX and JAXOpt.
-     - Previously, as a core contributor to the PennyLane software, developed tutorials and demos on quantum machine learning e.g., data-reuploading quantum classifier, barren plateaus in quantum neural networks. Currently working on an JAX-based implementation of differentiable Hartree Fock calculations ([PR](https://github.com/PennyLaneAI/pennylane/pull/2717)).
+     Developed an approach to take implicit gradients of variational quantum algorithm to compute quantities of interest in condensed-matter systems, quantum chemistry, generation of quantum entanglement as well as hyperparameter tuning of quantum machine-learning algorithms [arXiv:2211.13765](http://arxiv.org/abs/2211.13765), [demo](https://pennylane.ai/qml/demos/tutorial_implicit_diff_susceptibility.html) using PennyLane, JAX and JAXOpt.
+
+     Previously, as a core contributor to the PennyLane software, developed tutorials and demos on quantum machine learning e.g., data-reuploading quantum classifier, barren plateaus in quantum neural networks. Currently working on an JAX-based implementation of differentiable Hartree Fock calculations ([PR](https://github.com/PennyLaneAI/pennylane/pull/2717)).
 
 - **Quantum Toolbox in Python [QuTiP](https://www.qutip.org)**
+
 QuTiP. Core team member (2016 - Present)
-     - Part of the admin team involved in the maintenance and development of QuTiP — an open-source software for quantum physics simulation used by thousands of physicists worldwide.
-     - Worked towards developling tools for automatic differentiation applications in quantum physics, e.g, a JAX-based versions of QuTiP functionalities — ([qgrad](https://qgrad.readthedocs.io), [qutip-jax](https://github.com/qutip/qutip-jax)), TensorFlow backend for QuTiP ([qutip-tensorflow](https://github.com/qutip/qutip-tensorflow)). Also part of the [qutip-qip](https://qutip-qip.readthedocs.io/en/stable/) project focused on pulse-level simulation of quantum circuits ([Quantum 6, 630 (2022)](https://quantum-journal.org/papers/q-2022-01-24-630/)).
+     
+     Part of the admin team involved in the maintenance and development of QuTiP — an open-source software for quantum physics simulation used by thousands of physicists worldwide.
+     
+     Worked towards developling tools for automatic differentiation applications in quantum physics, e.g, a JAX-based versions of QuTiP functionalities — ([qgrad](https://qgrad.readthedocs.io), [qutip-jax](https://github.com/qutip/qutip-jax)), TensorFlow backend for QuTiP ([qutip-tensorflow](https://github.com/qutip/qutip-tensorflow)). Also part of the [qutip-qip](https://qutip-qip.readthedocs.io/en/stable/) project focused on pulse-level simulation of quantum circuits ([Quantum 6, 630 (2022)](https://quantum-journal.org/papers/q-2022-01-24-630/)).
 
 - **Cluster for Pioneering Research, Riken, Japan**
 Theoretical quantum physics group. Intern (Jul 2017 - July 2018). Guides: [Prof. Franco Nori](https://www.riken.jp/en/research/labs/chief/theor_qtm_phys/), Dr. Neill Lambert, Dr. Nathan Shammah, Dr. Clemens Gneiting.
 
-     - Worked on a project exploring constrained optimization using neural networks, e.g., for solving Sudoku ([poster](sahmed.in/posters/nnsat.pdf))
-     - Developed simulation techniques for large open quantum systems and worked on their open-source implementations resulting in two publications during my master thesis ([Phys. Rev. A 98, 063815](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.063815), [Nat Commun 10, 3721 (2019)](https://www.nature.com/articles/s41467-019-11656-1)).
+     Worked on a project exploring constrained optimization using neural networks, e.g., for solving Sudoku ([poster](sahmed.in/posters/nnsat.pdf))
+     
+     Developed simulation techniques for large open quantum systems and worked on their open-source implementations resulting in two publications during my master thesis ([Phys. Rev. A 98, 063815](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.063815), [Nat Commun 10, 3721 (2019)](https://www.nature.com/articles/s41467-019-11656-1)).
 
 - **Ritsumeikan University, Japan**
+
 Next generation computing lab. Intern (Dec 2016 - Jan 2017). Guide: [Prof. Shigeru Yamashita](http://www.ngc.is.ritsumei.ac.jp/~ger/english-2/)
-     - Developed a pipeline for optimization of topological quantum circuits.
+     
+     Developed a pipeline for optimization of topological quantum circuits.
 
 - **Summer of code, Google**
+
 Python software foundation (Dipy). Intern (May 2016 - Aug 2016). Mentor: [Dr. Ariel Rokem](https://arokem.org), Senior Data Scientist and a Data Science Fellow at the University of Washington eScience Institute.
 
-     - Developed a python module for Magnetic Resonance Image (MRI) reconstruction based on the IVIM model resulting in an open-source implementation ([demo](https://dipy.org/documentation/0.16.0./examples_built/reconst_ivim/)) and a publication ([arXiv:1910.00095](https://arxiv.org/abs/1910.00095s)).
+     Developed a python module for Magnetic Resonance Image (MRI) reconstruction based on the IVIM model resulting in an open-source implementation ([demo](https://dipy.org/documentation/0.16.0./examples_built/reconst_ivim/)) and a publication ([arXiv:1910.00095](https://arxiv.org/abs/1910.00095s)).
 
 ## SKILLS
 * * *
