@@ -1,3 +1,7 @@
+# Shahnawaz Ahmed
+* * *
+shahnawaz.ahmed95@gmail.com | [Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) | GitHub:[quantshah](github.com/quantshah) | Twitter:[quantshah](http://twitter.com/quantshah)
+
 ## EDUCATION
 * * *
 - [Chalmers University of Technology](https://www.chalmers.se/en/centres/wacqt/Pages/default.aspx), Göteborg, Sweden
