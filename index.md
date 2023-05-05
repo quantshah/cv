@@ -106,22 +106,28 @@ Intern. Python software foundation (Dipy). Mentor: [Dr. Ariel Rokem](https://aro
 ## TEACHING
 * * *
 ### Chalmers University of Technology
-Learning from data ([TIF285](https://cforssen.gitlab.io/tif285-book/content/Intro/welcome.html)) | Teaching assistant (2019, 2020, 2021, 2022) |
+**Learning from data ([TIF285](https://cforssen.gitlab.io/tif285-book/content/Intro/welcome.html))** | Teaching assistant (2019, 2020, 2021, 2022) |
+
 Master's level course taught by Prof. Christian Forssén on methods to perform scientific data analysis using Bayesian statistical inference and machine learning. Developed various term projects on neural-network applications to science.
 
 **Quantum capsule neural networks** | Master's thesis supervisor (2020) |
+
 Supervised a master thesis by Sieglinde Bogaert, a student of the Erasmus Mundus Nano program in collaboration with KU Leuven on the topic of quantum neural networks. I conceived the idea and supervised the thesis with Dr. Anton Frisk Kockum.
 
 **Applied machine learning** | Teaching assistant (2019, 2020, 2021) |
+
 Master's level course taught by Prof. Richard Johansson focusing on applied machine learning with Python.
 
 **Advanced simulation and machine learning** | Teaching assistant (2020, 2021, 2022) |
+
 Master's level course by Prof. Andreas Ekström on advanced topics in machine learning, e.g, Gaussian processes, Bayesian regression
 
 **Deep machine learning and reinforcement learning** | Teaching assistant (2020, 2021) |
+
 Evening course by [Prof. Mats Granath](https://www.gu.se/en/about/find-staff/matsgranath) focusing on basic machine learning concepts and Python-based implementations of deep and reinforcement learning.
 
 **C programming** | Lab assistant (2019, 2020) |
+
 Evening course by [Prof. Andreas Heinz](https://www.chalmers.se/en/staff/Pages/andreas-heinz.aspx). Assisted with grading lab exercises in basic C-programming.
 
 ### BITS Pilani, K.K. Birla Goa Campus
