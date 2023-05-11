@@ -57,7 +57,7 @@ Next generation computing lab. Intern. Guide: [Prof. Shigeru Yamashita](http://w
 ### **Summer of code, Google** | May 2016 - Aug 2016 |
 Intern. Python software foundation (Dipy). Mentor: [Dr. Ariel Rokem](https://arokem.org), Senior Data Scientist and a Data Science Fellow at the University of Washington eScience Institute.
 
-- Developed a python module for Magnetic Resonance Image (MRI) reconstruction based on the IVIM model resulting in an open-source implementation ([demo](https://dipy.org/documentation/0.16.0./examples_built/reconst_ivim/)) and a publication ([arXiv:1910.00095](https://arxiv.org/abs/1910.00095s)).
+- Developed a python module for Magnetic Resonance Image (MRI) reconstruction based on the IVIM model resulting in an open-source implementation ([demo](https://dipy.org/documentation/0.16.0./examples_built/reconst_ivim/)) and a publication ([arXiv:1910.00095](https://arxiv.org/abs/1910.00095)).
 
 - Mentored several Google Summer of Code projects for QuTiP in subsequent years resulting in a research publication ([Quantum 6, 630 (2022)](https://quantum-journal.org/papers/q-2022-01-24-630/)) and new functionalities in QuTiP.
 
