@@ -151,7 +151,7 @@ Evening course by [Prof. Andreas Heinz](https://www.chalmers.se/en/staff/Pages/a
 
 8. Li B, **Ahmed S**, Saraogi S, Lambert B, Nori F, Pitchford A, Shammah N. "Pulse-level noisy quantum circuits with QuTiP." [Quantum 6, 630 (2022)](https://quantum-journal.org/papers/q-2022-01-24-630/). [arXiv:2105.09902](https://arxiv.org/abs/2105.09902).
 
-9. Lambert N, Raheja T, **Ahmed S**, Pitchford A, Nori F. "BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics." [Phys. Rev. Research 5, 013181 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013181). [arXiv:2010.10806](https://arxiv.org/abs/2010.10806).
+9. Lambert N, Raheja T, Cross S, Menczel P, **Ahmed S**, Pitchford A, Burgarth D, Nori F. "BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics." [Phys. Rev. Research 5, 013181 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013181). [arXiv:2010.10806](https://arxiv.org/abs/2010.10806).
 
 10. Fadnavis S, Farooq H, Afzali M, Lenglet C, Georgiou T, Cheng H, Newman S, **Ahmed S**, Henriques RN, Peterson E, Koudoro S. "Fitting IVIM with Variable Projection and Simplicial Optimization," [arXiv:1910.00095](https://arxiv.org/abs/1910.00095).
 
