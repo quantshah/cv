@@ -1,5 +1,5 @@
 # Dr. Shahnawaz Ahmed
-Email: shahnawaz.ahmed95@gmail.com | [Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) | GitHub:[quantshah](github.com/quantshah)
+Email: shahnawaz.ahmed95@gmail.com | [Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) | GitHub:[quantshah](github.com/quantshah) | LinkedIn: [quantshah](https://www.linkedin.com/in/quantshah/)
 
 ## EDUCATION
 - [Chalmers University of Technology](https://www.chalmers.se/en/centres/wacqt/Pages/default.aspx), Göteborg, Sweden | October 2018 - September 2023
@@ -18,13 +18,15 @@ Email: shahnawaz.ahmed95@gmail.com | [Google scholar](https://scholar.google.com
 - Research and development in deep learning model optimization techniques: quantization, pruning, and neural architecture search.
 - Optimize models for edge devices, working with hardware like Qualcomm NPUs and NVIDIA GPUs.
 - Develop and implement new methods for model optimization, including LLM optimization for edge hardware.
-- Conduct workshops on model optimization techniques for deep learning engineers at various companies and coordinate research and pilot projects.
+- Collaborate on model optimization with engineers at customer companies within pilot projects.
+- Drive and lead research projects on deep learning model optimization with external partners.
 
 ### **Xanadu Quantum Technologies, Canada** | *May 2023 – Present*  
-**Research collaborator in the Quantum Machine Learning group of Dr. Maria Schuld**
+**Research collaborator within Quantum Machine Learning**
 
 - Exploring the feasibility of quantum machine learning (QML) to solve real-world problems.
 - Co-authored a benchmarking paper evaluating 9 quantum models with 200,000 executions on an HPC cluster, prompting critical discourse in QML research. [Blog](https://pennylane.ai/blog/2024/03/benchmarking-near-term-quantum-algorithms-is-an-art)
+- Co-authored a paper on developing a method to train quantum generative models scaled upto 1000 qubits [link](https://arxiv.org/abs/2503.02934).
 - Collaborating on scaling quantum models for HPC implementation with National Energy Research Scientific Computing (NERSC).
 
 ### **Chalmers University of Technology, Sweden** | *Oct 2018 – Sep 2023*  
@@ -135,30 +137,34 @@ Email: shahnawaz.ahmed95@gmail.com | [Google scholar](https://scholar.google.com
 
 See [Google scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) for updated list of publications.
 
-1. Bowles J, **Ahmed S**, Schuld M. "[Better than classical? The subtle art of benchmarking quantum machine learning models.](https://arxiv.org/abs/2403.07059)" *arXiv:2403.07059v2* (2024).
+1. Gaikwad A., Torres ME, **Ahmed S**, Kockum AF. "[Gradient-descent methods for fast quantum state tomography.](https://arxiv.org/abs/2503.04526)" *arXiv:2503.04526* (2025).
 
-2. **Ahmed S**, Killoran N, Carrasquilla J.F. "Implicit differentiation of variational quantum algorithms." [arXiv:2211.13765 (2022)](https://arxiv.org/abs/2211.13765).
+2. Recio-Armengol E., **Ahmed S**, Bowles J. "[Train on classical, deploy on quantum: scaling generative quantum machine learning to a thousand qubits.](https://arxiv.org/abs/2503.02934)" *arXiv:2503.02934* (2025).
 
-3. **Ahmed S**, Quijandría, F., & Kockum, AF. "Gradient-descent quantum process tomography by learning Kraus operators." [Phys. Rev. Lett. 130, 150402 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.150402). [arXiv:2208.00812](https://arxiv.org/abs/2208.00812).
+3. Bowles J, **Ahmed S**, Schuld M. "[Better than classical? The subtle art of benchmarking quantum machine learning models.](https://arxiv.org/abs/2403.07059)" *arXiv:2403.07059v2* (2024).
 
-4. Chen L, Li HX, Lu Y, Warren CW, Križan CJ, Kosen S, Rommel M, **Ahmed S**, et al. "Transmon qubit readout fidelity at the threshold for quantum error correction without a quantum-limited amplifier". [npj Quantum Inf 9, 26 (2023)](https://www.nature.com/articles/s41534-023-00689-6). [arXiv:2208.05879](https://arxiv.org/abs/2208.05879).
+4. **Ahmed S**, Killoran N, Carrasquilla J.F. "Implicit differentiation of variational quantum algorithms." [arXiv:2211.13765 (2022)](https://arxiv.org/abs/2211.13765).
 
-5. Kudra, M., Kervinen, M., Strandberg, I., **Ahmed S**, et al. "Robust preparation of Wigner-negative states with optimized SNAP-displacement sequences." [PRX Quantum, 3(3), 030301 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.030301). [arXiv:2111.07965](https://arxiv.org/abs/2111.07965)
+5. **Ahmed S**, Quijandría, F., & Kockum, AF. "Gradient-descent quantum process tomography by learning Kraus operators." [Phys. Rev. Lett. 130, 150402 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.150402). [arXiv:2208.00812](https://arxiv.org/abs/2208.00812).
 
-6. Warren, C. W., Fernández-Pendás, J., **Ahmed S**, et al. "Extensive characterization of a family of efficient three-qubit gates at the coherence limit.". [npj Quantum Inf 9, 44 (2023)](https://doi.org/10.1038/s41534-023-00711-x). [arXiv:2207.02938](https://arxiv.org/abs/2207.02938).
+6. Chen L, Li HX, Lu Y, Warren CW, Križan CJ, Kosen S, Rommel M, **Ahmed S**, et al. "Transmon qubit readout fidelity at the threshold for quantum error correction without a quantum-limited amplifier". [npj Quantum Inf 9, 26 (2023)](https://www.nature.com/articles/s41534-023-00689-6). [arXiv:2208.05879](https://arxiv.org/abs/2208.05879).
 
-7. **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Quantum State Tomography with Conditional Generative Adversarial Networks." [Phys. Rev. Lett. 127, 140502 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140502). [arXiv:2008.03240](https://arxiv.org/abs/2008.03240).
+7. Kudra, M., Kervinen, M., Strandberg, I., **Ahmed S**, et al. "Robust preparation of Wigner-negative states with optimized SNAP-displacement sequences." [PRX Quantum, 3(3), 030301 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.030301). [arXiv:2111.07965](https://arxiv.org/abs/2111.07965)
 
-8. **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Classification and reconstruction of optical quantum states with deep neural networks." [Phys. Rev. Research 3, 033278 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033278). [arXiv:2012.02185](https://arxiv.org/abs/2012.02185).
+8. Warren, C. W., Fernández-Pendás, J., **Ahmed S**, et al. "Extensive characterization of a family of efficient three-qubit gates at the coherence limit.". [npj Quantum Inf 9, 44 (2023)](https://doi.org/10.1038/s41534-023-00711-x). [arXiv:2207.02938](https://arxiv.org/abs/2207.02938).
 
-9. Li B, **Ahmed S**, Saraogi S, Lambert B, Nori F, Pitchford A, Shammah N. "Pulse-level noisy quantum circuits with QuTiP." [Quantum 6, 630 (2022)](https://quantum-journal.org/papers/q-2022-01-24-630/). [arXiv:2105.09902](https://arxiv.org/abs/2105.09902).
+9.  **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Quantum State Tomography with Conditional Generative Adversarial Networks." [Phys. Rev. Lett. 127, 140502 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140502). [arXiv:2008.03240](https://arxiv.org/abs/2008.03240).
 
-10. Lambert N, Raheja T, **Ahmed S**, Pitchford A, Nori F. "BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics." [Phys. Rev. Research 5, 013181 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013181). [arXiv:2010.10806](https://arxiv.org/abs/2010.10806).
+10. **Ahmed S**, Muñoz CS, Nori F, Kockum AF. "Classification and reconstruction of optical quantum states with deep neural networks." [Phys. Rev. Research 3, 033278 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033278). [arXiv:2012.02185](https://arxiv.org/abs/2012.02185).
 
-11. Fadnavis S, Farooq H, Afzali M, Lenglet C, Georgiou T, Cheng H, Newman S, **Ahmed S**, Henriques RN, Peterson E, Koudoro S. "Fitting IVIM with Variable Projection and Simplicial Optimization," [arXiv:1910.00095](https://arxiv.org/abs/1910.00095).
+11. Li B, **Ahmed S**, Saraogi S, Lambert B, Nori F, Pitchford A, Shammah N. "Pulse-level noisy quantum circuits with QuTiP." [Quantum 6, 630 (2022)](https://quantum-journal.org/papers/q-2022-01-24-630/). [arXiv:2105.09902](https://arxiv.org/abs/2105.09902).
 
-12. Lambert N, **Ahmed S**, Cirio M, Nori F. "Modelling the ultra-strongly coupled spin-boson model with unphysical modes," [Nature Communications 10, 3721 (2019)](https://www.nature.com/articles/s41467-019-11656-1). [arXiv:1903.05892](https://arxiv.org/abs/1903.05892).
+12. Lambert N, Raheja T, **Ahmed S**, Pitchford A, Nori F. "BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics." [Phys. Rev. Research 5, 013181 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013181). [arXiv:2010.10806](https://arxiv.org/abs/2010.10806).
 
-13. Shammah N, **Ahmed S**, Lambert N, Liberato S. D., and Nori F. "Open quantum systems with local and collective incoherent processes: Efficient numerical simulations using permutational invariance," [Physical Review A 98 (6), 063815 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.063815).
+13.  Fadnavis S, Farooq H, Afzali M, Lenglet C, Georgiou T, Cheng H, Newman S, **Ahmed S**, Henriques RN, Peterson E, Koudoro S. "Fitting IVIM with Variable Projection and Simplicial Optimization," [arXiv:1910.00095](https://arxiv.org/abs/1910.00095).
 
-14. Bergholm V, Izaac J, Schuld M, Gogolin C, Alam MS, **Ahmed S**, et al. "PennyLane: Automatic differentiation of hybrid quantum-classical computations," [arXiv:1811.04968](https://arxiv.org/abs/1811.04968).
+14.  Lambert N, **Ahmed S**, Cirio M, Nori F. "Modelling the ultra-strongly coupled spin-boson model with unphysical modes," [Nature Communications 10, 3721 (2019)](https://www.nature.com/articles/s41467-019-11656-1). [arXiv:1903.05892](https://arxiv.org/abs/1903.05892).
+
+15.  Shammah N, **Ahmed S**, Lambert N, Liberato S. D., and Nori F. "Open quantum systems with local and collective incoherent processes: Efficient numerical simulations using permutational invariance," [Physical Review A 98 (6), 063815 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.063815).
+
+16.  Bergholm V, Izaac J, Schuld M, Gogolin C, Alam MS, **Ahmed S**, et al. "PennyLane: Automatic differentiation of hybrid quantum-classical computations," [arXiv:1811.04968](https://arxiv.org/abs/1811.04968).
